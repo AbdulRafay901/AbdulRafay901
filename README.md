@@ -57,65 +57,6 @@ I enjoy solving real-world problems, building REST APIs, creating modern user in
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛒 Multi Vendor Service Marketplace
-
-A complete service marketplace platform where customers can hire trusted service providers.
-
-### Features
-
-- Authentication
-- Multi Role System
-- CRUD Operations
-- Dashboard
-- Service Management
-- Booking System
-
-**Tech Stack**
-
-Laravel • PHP • MySQL • Bootstrap
-
-🔗 Repository
-
-https://github.com/AbdulRafay901/Multi-Vendor-Service-Marketplace-Platform
-
----
-
-## 🔐 Laravel REST Authentication & CRUD
-
-Modern REST API authentication system with complete CRUD functionality.
-
-### Features
-
-- REST APIs
-- Authentication
-- CRUD
-- Validation
-- Secure Login System
-
-**Tech Stack**
-
-Laravel • REST API • MySQL
-
-🔗 Repository
-
-https://github.com/AbdulRafay901/laravel-rest-auth-crud
-
----
-
-## 🛍 PHP Ecommerce Store
-
-Responsive ecommerce website with shopping cart and admin dashboard.
-
-### Features
-
-- Shopping Cart
-- Authentication
-- Product Management
-- Admin Panel
-- Responsive Design
-
 **Tech Stack**
 
 PHP • MySQL • Bootstrap • JavaScript
@@ -130,9 +71,9 @@ https://github.com/AbdulRafay901/php-ecommerce-store
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulRafay901&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdulRafay901&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRafay901&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbdulRafay901&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -178,16 +119,6 @@ https://github.com/AbdulRafay901/php-ecommerce-store
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulRafay901&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -196,8 +127,6 @@ https://github.com/AbdulRafay901/php-ecommerce-store
 
 </p>
 
-> **⚠️ Note:** Snake animation tab chalegi jab tum GitHub Actions configure karoge.
-
 ---
 
 # 📚 Currently Learning
@@ -205,9 +134,7 @@ https://github.com/AbdulRafay901/php-ecommerce-store
 - 🤖 Agentic AI
 - ⚛ Advanced React
 - 🏗 Laravel Architecture
-- 🔗 REST APIs
 - ☁ Deployment
-- 🧠 Design Patterns
 
 ---
 
