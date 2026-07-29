@@ -9,7 +9,7 @@ Building modern, scalable & user-focused web applications.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Laravel+Developer;React+Developer;REST+API+Developer;Open+to+Freelance+Projects;Currently+Learning+Agentic+AI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Laravel+Developer;React+Developer;REST+API+Developer;Open+to+Freelance+Projects;Currently+Learning+Agentic+AI"/>
 </p>
 
 <p align="center">
@@ -54,16 +54,6 @@ I enjoy solving real-world problems, building REST APIs, creating modern user in
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,php,laravel,mysql,git,github,vscode,postman,wordpress&perline=7"/>
 
 </p>
-
----
-
-**Tech Stack**
-
-PHP • MySQL • Bootstrap • JavaScript
-
-🔗 Repository
-
-https://github.com/AbdulRafay901/php-ecommerce-store
 
 ---
 
