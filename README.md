@@ -67,18 +67,6 @@ https://github.com/AbdulRafay901/php-ecommerce-store
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdulRafay901&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbdulRafay901&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
