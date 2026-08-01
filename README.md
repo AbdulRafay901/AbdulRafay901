@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | Laravel • React • PHP
+🚀 Full Stack Web Developer | Laravel • React
 </h3>
 
 <p align="center">
@@ -34,7 +34,7 @@ Building modern, scalable & user-focused web applications.
 
 I'm **Abdul Rafay**, a passionate **Full Stack Web Developer** from **Hyderabad, Pakistan 🇵🇰**.
 
-💻 I specialize in developing secure, scalable and responsive web applications using **Laravel**, **React**, **PHP** and **MySQL**.
+💻 I specialize in developing secure, scalable and responsive web applications using **Laravel**, **React**, and **MySQL**.
 
 I enjoy solving real-world problems, building REST APIs, creating modern user interfaces and continuously learning new technologies.
 
