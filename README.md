@@ -170,12 +170,12 @@ Git            █████████░░░ 85%
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## Thanks for Visiting!
 
 **"Great software is built with clean architecture, thoughtful design and continuous learning."**
 
 If you like my work, consider ⭐ starring my repositories.
 
-Let's build something amazing together 🚀
+Let's build something amazing together 
 
 </div>
