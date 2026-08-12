@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | Laravel • React
+Full Stack Web Developer | Laravel • React
 </h3>
 
 <p align="center">
