@@ -41,7 +41,7 @@ I enjoy solving real-world problems, building REST APIs, creating modern user in
 - 🚀 Full Stack Web Developer
 - 🌱 Currently learning **Agentic AI**
 - 💼 Open to **Freelance | Remote | Internship | Full-Time**
-- 💬 Ask me about **Laravel, PHP, React & REST APIs**
+- 💬 Ask me about **Laravel, PHP, React, Javascript**
 - 📧 **abdulrafay700000@gmail.com**
 - 🌐 **Portfolio:** https://rafaywebstudio.netlify.app
 
