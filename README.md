@@ -172,7 +172,7 @@ Git            █████████░░░ 85%
 
 ## Thanks for Visiting!
 
-**"Great software is built with clean architecture, thoughtful design and continuous learning."**
+**"Great software is built with clean architecture, thoughtful design and continuous learning"**
 
 If you like my work, consider ⭐ starring my repositories.
 
