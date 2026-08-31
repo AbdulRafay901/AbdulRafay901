@@ -97,7 +97,7 @@ I enjoy solving real-world problems, building REST APIs, creating modern user in
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake,
 
 <p align="center">
 
