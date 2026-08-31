@@ -174,7 +174,7 @@ Git            █████████░░░ 85%
 
 **"Great software is built with clean architecture, thoughtful design and continuous learning"**
 
-If you like my work, consider ⭐ starring my repositories.
+If you like my work consider ⭐ starring my repositories.
 
 Let's build something amazing together 
 
