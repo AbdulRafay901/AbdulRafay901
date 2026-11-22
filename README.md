@@ -43,7 +43,7 @@ I enjoy solving real-world problems, building REST APIs, creating modern user in
 - 💼 Open to **Freelance | Remote | Internship | Full-Time**
 - 💬 Ask me about **Laravel, PHP, React, Javascript**
 - 📧 **abdulrafay700000@gmail.com**
-- 🌐 **Portfolio:** https://rafaywebstudio.netlify.app
+- 🌐 **Portfolio:** https://rafaywebstudio.vercel.app/
 
 ---
 
